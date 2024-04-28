@@ -17,22 +17,22 @@ git clone https://github.com/jiamingli9674/Path_Drawing_ObjectARX_AutoCAD.git
 3. Load `.arx` file in path: `/Path_Drawing_ObjectARX_AutoCAD/DrawPathMFC/x64/Debug/DrawPathMFC.arx`
 
 4. Type command `MYCOMMANDLOCAL` to run the application
-![GUI](/img/GUI.png)
+![GUI](img/GUI.png)
 
 ## Example
 
 Read data from .csv file<br>
 1. Click import point of intersection
-![Import POI](/img/import_poi.png)
+![Import POI](img/import_poi.png)
 2. Slect from file (can be .txt or .csv)
-![From File](/img/from_file.png)
+![From File](img/from_file.png)
 3. Open the test data (`test_data.txt`) in the repo
-![Open Test Data](/img/open_test_data.png)
+![Open Test Data](img/open_test_data.png)
 4. If the format of the data is correct, the information is supposed to be imported into the applicaiton, click draw entity to draw the path in AutoCAD
-![Draw Entity](/img/draw_entity.png)
+![Draw Entity](img/draw_entity.png)
 5. Done
-![Overview](/img/overview.png)
-![Details](/img/details.png)
+![Overview](img/overview.png)
+![Details](img/details.png)
 
 
 
